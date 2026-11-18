@@ -1,0 +1,282 @@
+[
+    {
+        "product": "Classic Arabica Beans",
+        "current_stock": 35,
+        "reorder_point": 132,
+        "recommended_order_quantity": 541,
+        "supplier": "Supplier A"
+    },
+    {
+        "product": "Classic Green Tea",
+        "current_stock": 99,
+        "reorder_point": 470,
+        "recommended_order_quantity": 417,
+        "supplier": "Supplier B"
+    },
+    {
+        "product": "Classic Croissant",
+        "current_stock": 37,
+        "reorder_point": 396,
+        "recommended_order_quantity": 469,
+        "supplier": "Supplier C"
+    },
+    {
+        "product": "Classic Black Tea",
+        "current_stock": 137,
+        "reorder_point": 330,
+        "recommended_order_quantity": 508,
+        "supplier": "Supplier G"
+    },
+    {
+        "product": "Classic Muffin",
+        "current_stock": 206,
+        "reorder_point": 420,
+        "recommended_order_quantity": 886,
+        "supplier": "Supplier H"
+    },
+    {
+        "product": "Classic Espresso Blend",
+        "current_stock": 185,
+        "reorder_point": 504,
+        "recommended_order_quantity": 317,
+        "supplier": "Supplier C"
+    },
+    {
+        "product": "Classic Earl Grey",
+        "current_stock": 234,
+        "reorder_point": 756,
+        "recommended_order_quantity": 613,
+        "supplier": "Supplier D"
+    },
+    {
+        "product": "Classic Napkins",
+        "current_stock": 227,
+        "reorder_point": 420,
+        "recommended_order_quantity": 510,
+        "supplier": "Supplier F"
+    },
+    {
+        "product": "Classic Brownie",
+        "current_stock": 10,
+        "reorder_point": 650,
+        "recommended_order_quantity": 539,
+        "supplier": "Supplier G"
+    },
+    {
+        "product": "Classic Stirrers",
+        "current_stock": 255,
+        "reorder_point": 360,
+        "recommended_order_quantity": 361,
+        "supplier": "Supplier H"
+    },
+    {
+        "product": "Classic Gift Box",
+        "current_stock": 80,
+        "reorder_point": 450,
+        "recommended_order_quantity": 507,
+        "supplier": "Supplier A"
+    },
+    {
+        "product": "Premium Arabica Beans",
+        "current_stock": 179,
+        "reorder_point": 640,
+        "recommended_order_quantity": 364,
+        "supplier": "Supplier B"
+    },
+    {
+        "product": "Premium Green Tea",
+        "current_stock": 215,
+        "reorder_point": 630,
+        "recommended_order_quantity": 621,
+        "supplier": "Supplier C"
+    },
+    {
+        "product": "Premium Muffin",
+        "current_stock": 110,
+        "reorder_point": 564,
+        "recommended_order_quantity": 268,
+        "supplier": "Supplier A"
+    },
+    {
+        "product": "Premium Earl Grey",
+        "current_stock": 70,
+        "reorder_point": 136,
+        "recommended_order_quantity": 184,
+        "supplier": "Supplier E"
+    },
+    {
+        "product": "Premium Bagel",
+        "current_stock": 302,
+        "reorder_point": 486,
+        "recommended_order_quantity": 334,
+        "supplier": "Supplier F"
+    },
+    {
+        "product": "Premium Napkins",
+        "current_stock": 168,
+        "reorder_point": 414,
+        "recommended_order_quantity": 330,
+        "supplier": "Supplier G"
+    },
+    {
+        "product": "Premium Decaf Beans",
+        "current_stock": 68,
+        "reorder_point": 148,
+        "recommended_order_quantity": 588,
+        "supplier": "Supplier A"
+    },
+    {
+        "product": "Premium Hot Chocolate Mix",
+        "current_stock": 84,
+        "reorder_point": 231,
+        "recommended_order_quantity": 214,
+        "supplier": "Supplier E"
+    },
+    {
+        "product": "Premium Brownie",
+        "current_stock": 18,
+        "reorder_point": 516,
+        "recommended_order_quantity": 353,
+        "supplier": "Supplier H"
+    },
+    {
+        "product": "Premium Gift Box",
+        "current_stock": 225,
+        "reorder_point": 242,
+        "recommended_order_quantity": 355,
+        "supplier": "Supplier B"
+    },
+    {
+        "product": "Organic Arabica Beans",
+        "current_stock": 267,
+        "reorder_point": 324,
+        "recommended_order_quantity": 805,
+        "supplier": "Supplier C"
+    },
+    {
+        "product": "Organic Paper Cups",
+        "current_stock": 46,
+        "reorder_point": 244,
+        "recommended_order_quantity": 643,
+        "supplier": "Supplier F"
+    },
+    {
+        "product": "Organic Robusta Beans",
+        "current_stock": 115,
+        "reorder_point": 235,
+        "recommended_order_quantity": 266,
+        "supplier": "Supplier H"
+    },
+    {
+        "product": "Organic Reusable Cup",
+        "current_stock": 237,
+        "reorder_point": 522,
+        "recommended_order_quantity": 251,
+        "supplier": "Supplier D"
+    },
+    {
+        "product": "Organic Espresso Blend",
+        "current_stock": 238,
+        "reorder_point": 270,
+        "recommended_order_quantity": 237,
+        "supplier": "Supplier E"
+    },
+    {
+        "product": "Organic Decaf Beans",
+        "current_stock": 211,
+        "reorder_point": 370,
+        "recommended_order_quantity": 299,
+        "supplier": "Supplier B"
+    },
+    {
+        "product": "Organic Chamomile Tea",
+        "current_stock": 137,
+        "reorder_point": 301,
+        "recommended_order_quantity": 339,
+        "supplier": "Supplier C"
+    },
+    {
+        "product": "Organic Hot Chocolate Mix",
+        "current_stock": 339,
+        "reorder_point": 341,
+        "recommended_order_quantity": 304,
+        "supplier": "Supplier F"
+    },
+    {
+        "product": "Organic Cold Brew Blend",
+        "current_stock": 96,
+        "reorder_point": 216,
+        "recommended_order_quantity": 338,
+        "supplier": "Supplier G"
+    },
+    {
+        "product": "Organic Brownie",
+        "current_stock": 84,
+        "reorder_point": 374,
+        "recommended_order_quantity": 326,
+        "supplier": "Supplier A"
+    },
+    {
+        "product": "Bulk Green Tea",
+        "current_stock": 334,
+        "reorder_point": 370,
+        "recommended_order_quantity": 353,
+        "supplier": "Supplier E"
+    },
+    {
+        "product": "Bulk Muffin",
+        "current_stock": 30,
+        "reorder_point": 583,
+        "recommended_order_quantity": 424,
+        "supplier": "Supplier C"
+    },
+    {
+        "product": "Bulk Cup Lids",
+        "current_stock": 315,
+        "reorder_point": 448,
+        "recommended_order_quantity": 646,
+        "supplier": "Supplier D"
+    },
+    {
+        "product": "Bulk Reusable Cup",
+        "current_stock": 235,
+        "reorder_point": 380,
+        "recommended_order_quantity": 427,
+        "supplier": "Supplier E"
+    },
+    {
+        "product": "Bulk Earl Grey",
+        "current_stock": 37,
+        "reorder_point": 430,
+        "recommended_order_quantity": 319,
+        "supplier": "Supplier G"
+    },
+    {
+        "product": "Bulk Coffee Syrup",
+        "current_stock": 29,
+        "reorder_point": 81,
+        "recommended_order_quantity": 192,
+        "supplier": "Supplier B"
+    },
+    {
+        "product": "Bulk Decaf Beans",
+        "current_stock": 51,
+        "reorder_point": 135,
+        "recommended_order_quantity": 947,
+        "supplier": "Supplier C"
+    },
+    {
+        "product": "Bulk Hot Chocolate Mix",
+        "current_stock": 416,
+        "reorder_point": 496,
+        "recommended_order_quantity": 711,
+        "supplier": "Supplier G"
+    },
+    {
+        "product": "Bulk Stirrers",
+        "current_stock": 166,
+        "reorder_point": 549,
+        "recommended_order_quantity": 576,
+        "supplier": "Supplier C"
+    }
+]

@@ -1,0 +1,21 @@
+
+# API keys and sensitive files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.ps1
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
